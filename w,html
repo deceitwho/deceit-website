@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deceit!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="animated-text">DECEIT!</div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search websites...">
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
